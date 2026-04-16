@@ -125,12 +125,11 @@ div.video{
 }
 
 iframe {
-    display: block;
-    top: 55%;
-    margin: auto;
-    width: 750px;
-    height: 400px;
-    padding: 35px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 aside{
