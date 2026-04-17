@@ -80,6 +80,7 @@ main{
 main>article>h1{
     font-family: var(--fonte2);
     color: var(--cor5);
+    letter-spacing: -1px;
 }
 main>article>p{
     padding-top: 16px;
@@ -92,6 +93,7 @@ main>article>h2{
     color: var(--cor5);
     background-image: linear-gradient(to right, var(--cor0),var(--cor0), white);
     margin-top: 16px;
+    letter-spacing: -0.5px;
 }
 main strong{
     color: var(--cor5);
