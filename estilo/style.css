@@ -78,7 +78,7 @@ main{
     border-radius: 0px 0px 10px 10px;
 }
 main>article>h1{
-    font-family: var(--fonte1);
+    font-family: var(--fonte2);
     color: var(--cor5);
     letter-spacing: -1px;
     
